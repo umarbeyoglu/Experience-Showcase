@@ -6,6 +6,10 @@ I added the codes here (what I have learned before) that I did not include/show 
 
 https://github.com/umarbeyoglu/Experience-Showcase/blob/main/.github/workflows/dart.yml
 
+# Flutter Testing :
+
+https://github.com/umarbeyoglu/Experience-Showcase/blob/main/integration_test/app_test.dart
+
 # Provider Example:
 
 https://github.com/umarbeyoglu/Experience-Showcase/blob/main/lib/Provider.dart
