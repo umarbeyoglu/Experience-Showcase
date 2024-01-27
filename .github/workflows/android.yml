@@ -18,7 +18,7 @@ jobs:
         flutter-version: '3.7.7'
     - run: flutter pub get
     - run: flutter test
-    - run: flutter build apk
-    - run: flutter build appbundle
+    - run: flutter build apk --obfuscate --split-debug-info=/<project-name>/<directory>
+    - run: flutter build appbundle --obfuscate --split-debug-info=/<project-name>/<directory>
 
 
