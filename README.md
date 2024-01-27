@@ -17,3 +17,7 @@ https://github.com/umarbeyoglu/Experience-Showcase/blob/main/lib/SpeedAndDistanc
 # SMS Sending Example :
 
 https://github.com/umarbeyoglu/Experience-Showcase/blob/main/lib/SendSMS.dart
+
+# Excel to Django/PostgreSQL :
+
+https://github.com/umarbeyoglu/Experience-Showcase/tree/main/EXCELserver/server
